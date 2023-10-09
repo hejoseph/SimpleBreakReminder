@@ -27,12 +27,14 @@ While there are alternative break reminder tools available, the Break Reminder A
 
 - Simplicity
 
-Our app is straightforward and easy to use, making it accessible to everyone, regardless of technical expertise. It's a minimalist solution that won't add unnecessary complexity to your workday.
+The app is straightforward and easy to use, making it accessible to everyone, regardless of technical expertise. It's a minimalist solution that won't add unnecessary complexity to your workday.
 
 - Flexibility
+
 Unlike some alternatives, I provide flexibility in choosing your break intervals. You can set the duration that suits your work style best.
 
 - Audio Reminders
+
 I offer audio reminders, which can be more engaging and effective than visual-only reminders provided by some alternatives.
 
 ## Requirements
