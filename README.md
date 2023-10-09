@@ -10,16 +10,21 @@ Are you tired of long work hours, constantly glued to your computer screen, and 
 - Sends periodic notifications to remind you to step away from your computer.
 
 # Why Should You Use This Program?
+
 1. Boost Your Productivity
+
 The Break Reminder App is designed to enhance your productivity by reminding you to take short, refreshing breaks at optimal intervals. Research shows that regular breaks can improve focus and creativity, making you more efficient in your tasks.
 
 2. Prioritize Your Health
+
 Your well-being matters. Prolonged periods of sitting and staring at a screen can lead to health issues. Our app encourages you to step away from your desk, stretch, and relax, reducing the risks associated with sedentary work habits. It also helps protect your precious eyesight by preventing extended screen exposure, which can lead to blurry vision.
 
 3. Customizable Experience
+
 Unlike other alternatives, our app allows you to personalize your break intervals and even choose your favorite reminder sound. Tailor the app to your preferences and make it an integral part of your daily routine.
 
 4. Unobtrusive Design
+
 The Break Reminder App operates discreetly in your system tray. It won't disrupt your workflow or clutter your desktop. You'll receive gentle reminders, ensuring you stay on top of your work without feeling overwhelmed. This simple program has no distracting features, keeping your focus where it matters—on your tasks.
 
 # Why Not Use an Alternative?
