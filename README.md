@@ -26,13 +26,14 @@ The Break Reminder App operates discreetly in your system tray. It won't disrupt
 While there are alternative break reminder tools available, the Break Reminder App offers unique advantages:
 
 - Simplicity
+
 Our app is straightforward and easy to use, making it accessible to everyone, regardless of technical expertise. It's a minimalist solution that won't add unnecessary complexity to your workday.
 
 - Flexibility
-Unlike some alternatives, we provide flexibility in choosing your break intervals. You can set the duration that suits your work style best.
+Unlike some alternatives, I provide flexibility in choosing your break intervals. You can set the duration that suits your work style best.
 
 - Audio Reminders
-We offer audio reminders, which can be more engaging and effective than visual-only reminders provided by some alternatives.
+I offer audio reminders, which can be more engaging and effective than visual-only reminders provided by some alternatives.
 
 ## Requirements
 
@@ -56,3 +57,32 @@ python Break.py
 Double click on the bat file, and there will be a coffee icon in the system tray notification :
 
 ![coffee icon](screenshots/systray_icon.png)
+
+You can hover your mouse over the icon, to see the time left before the reminder.
+
+![time left](screenshots/mouse_hover.png)
+
+By right-clicking on the icon, you can terminate the program or choose the interval for the timer
+
+![right click](screenshots/right_click.png)
+
+When you click on "change minute break", you will see a window to let you enter the value in minutes.
+
+![change_minutes](screenshots/change_minutes.png)
+
+Let say you enter "1" as a minute, then every "1" minute there will be a reminder that pops up :
+
+![notification](screenshots/notification.png)
+
+## Tips
+
+You can also put the bat file to the taskbar for quicker access :
+
+![taskbar](screenshots/taskbar.png)
+
+- Rename your .bat file to .exe
+- Right click on the *.exe and choose "Pin to taskbar"
+- Rename the batch file back to .bat
+- Shift + Right click on the taskbar icon (for the exe) and choose "Properties"
+- Change the reference from *.exe to .bat and change the icon as needed (you can select 'coffee-ico.ico' from the folder)
+- Now you can run the bat file from the taskbar
